@@ -1,0 +1,5 @@
+﻿CREATE PROCEDURE cauhinh_hien
+AS
+	SELECT * FROM dbo.CauHinh
+RETURN 0
+GO

@@ -1,0 +1,5 @@
+﻿CREATE PROCEDURE hesoluong_hien
+AS
+	SELECT * FROM dbo.HeSoLuong
+RETURN 0
+GO
